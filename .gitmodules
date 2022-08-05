@@ -1,0 +1,4 @@
+[submodule "winim"]
+	path = winim
+	url = https://github.com/HansMartin/winim
+	branch = add_IMethodInfo
